@@ -11,7 +11,7 @@ const contactInfo = [
   {
     icon: <FaLinkedin />,
     title: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/francis-aboud',
+    link: 'https://www.linkedin.com/in/francisaboud',
     text: 'Connect with me',
   },
   {
